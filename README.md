@@ -1,5 +1,6 @@
 # Employee_Management
 This repository contains the source code for the Employee Management Project, as discussed in the videos on my YouTube channel: Catch the Code[https://youtu.be/e5HS1lNLVxs?si=33Wo6qIQtRW1tzls]. The project demonstrates how to handle basic CRUD (Create, Read, Update, Delete) operations using a .txt file for data storage.
+
 Employee-Management/
 │
 ├── app.py          # Main Python script containing the CRUD logic
